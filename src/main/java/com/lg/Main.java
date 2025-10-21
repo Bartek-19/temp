@@ -15,10 +15,6 @@ public class Main {
         return 3.14159;
     }
 
-    static double roundPi() {
-        return 3.14;
-    }
-
     static void dx() {
         System.out.println("DX!");
     }
