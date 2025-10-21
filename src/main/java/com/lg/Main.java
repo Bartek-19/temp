@@ -19,11 +19,13 @@ public class Main {
         return 3.14;
     }
 
-    static void xd() {
-        System.out.println("XD");
+    static void dx() {
+        System.out.println("DX!");
     }
 
-    static void sialaBabaMak() {
-        System.out.println("Nie wiedziala jak.");
+    static void nonsens() {
+        System.out.println("Bez sensu...");
+        System.out.println("Hello world!");
+        System.out.println("Hello world!");
     }
 }
