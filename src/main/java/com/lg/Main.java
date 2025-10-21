@@ -22,4 +22,8 @@ public class Main {
     static void dx() {
         System.out.println("DX!");
     }
+
+    static void nonsens() {
+        System.out.println("Bez sensu...");
+    }
 }
