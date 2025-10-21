@@ -22,4 +22,8 @@ public class Main {
     static void xd() {
         System.out.println("XD");
     }
+
+    static void sialaBabaMak() {
+        System.out.println("Nie wiedziala jak.");
+    }
 }
