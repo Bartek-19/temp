@@ -25,5 +25,7 @@ public class Main {
 
     static void nonsens() {
         System.out.println("Bez sensu...");
+        System.out.println("Hello world!");
+        System.out.println("Hello world!");
     }
 }
