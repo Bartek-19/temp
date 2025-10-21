@@ -8,5 +8,10 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Hello world!");
         System.out.println("Hello world!");
+        System.out.println(pi());
+    }
+
+    static double pi() {
+        return 3.14159;
     }
 }
