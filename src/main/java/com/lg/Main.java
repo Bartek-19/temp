@@ -18,4 +18,8 @@ public class Main {
     static double roundPi() {
         return 3.14;
     }
+
+    static void dx() {
+        System.out.println("DX!");
+    }
 }
