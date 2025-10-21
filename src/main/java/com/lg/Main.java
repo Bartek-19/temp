@@ -14,4 +14,8 @@ public class Main {
     static double pi() {
         return 3.14159;
     }
+
+    static double roundPi() {
+        return 3.14;
+    }
 }
